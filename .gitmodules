@@ -1,0 +1,3 @@
+[submodule "src/ui"]
+	path = src/ui
+	url = git@github.com:hanzlah011/ui-package.git
